@@ -1,0 +1,13 @@
+{
+  "name": "office-chores-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "cors": "^2.8.6",
+    "date-fns": "^3.6.0",
+    "express": "^4.22.1"
+  }
+}
